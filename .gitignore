@@ -1,0 +1,22 @@
+# Standard Python .gitignore
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+build/
+_dist/
+*.dist-info/
+*.egg-info/
+.venv/
+env/
+venv/
+*.log
+*.sqlite3
+*.sqlite
+.DS_Store
+.idea/
+.vscode/
+.qiskit/
+ibmq_device_layouts/
